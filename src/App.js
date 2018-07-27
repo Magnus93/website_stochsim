@@ -11,19 +11,19 @@ class App extends Component {
   render() {
     return (
       <BrowserRouter>
-      <Switch>
-        <div className="App">
-          <div className='menuArea'>
-            <Menu/>
-          </div>
-        <div className="viewArea">
+        <Switch>
+          <div className="App">
+            <div className='menuArea'>
+              <Menu/>
+            </div>
+            <div className="viewArea">
               <Route path={"/homepage/home"} exact component={Home} />
               <Route path={"/homepage/stochsim_software"} component={Software} />
               <Route path={"/homepage/stochsim_and_statres_manuels"} component={Manuals} />
               <Route path={"/homepage/example_models"} component={Examples} />
-        </div>
-      </div>
-      </Switch>
+            </div>
+          </div>
+        </Switch>
       </BrowserRouter>
     );
   }
