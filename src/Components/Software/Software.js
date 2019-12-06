@@ -33,7 +33,7 @@ const software = () => {
       <p>
         The open-source code for <b>StochSD</b> is available{" "}
         <a
-          href="https://github.com/Magnus93/stochsd"
+          href="https://github.com/stochsd/stochsd"
           target="_blank"
           rel="noopener noreferrer"
         >
