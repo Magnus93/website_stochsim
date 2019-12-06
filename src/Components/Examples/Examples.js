@@ -76,7 +76,7 @@ const examples = () => {
         </li>
         <li>
           <a
-            href={file6}
+            href={file7}
             download
           >
             <b>Ex-7</b>
