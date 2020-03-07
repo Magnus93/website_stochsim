@@ -13,9 +13,9 @@ const menu = () => {
         <li className="topmenu"><Link to="/home">Purpose of Stochastic Simulation</Link></li>
         <li className="topmenu"><Link to="/stochsd_software">StochSD Software</Link>
         <ul>
+          <li className="submenu"><a href="https://stochsd.sourceforge.io/software/" target="_blank">Try StochSD online</a></li>
           <li className="submenu"><a  href="https://sourceforge.net/projects/stochsd/files/" target="_blank">Download StochSD</a></li>
           <li className="submenu"><a href="https://github.com/stochsd/stochsd/" target="_blank">Download Source code</a></li>
-          <li className="submenu"><a href="https://stochsd.sourceforge.io/software/" target="_blank">Try online</a></li>
         </ul>
         </li>
         <li className="topmenu"><Link to="/stochsd_and_statres_manuels">StochSD User's Manuals</Link></li>
