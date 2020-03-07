@@ -4,6 +4,10 @@
     border: 1px solid #d0d0d0;
   }
 
+  .menu h1 {
+    text-align: center;
+  }
+
   .menu ul {
     list-style-type: none;
   }
@@ -14,8 +18,7 @@
   }
 
   .submenu {
-    line-height: 18.4px;
-    margin: 32px 0px;
+    margin: 12px 0px;
   }
 
   #iconImg {
