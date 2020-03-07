@@ -3,12 +3,18 @@
     padding: 16px 32px;
     border: 1px solid #d0d0d0;
   }
-  
-  .menu h1 {
-    text-align: center;
+
+  .menu ul {
+    list-style-type: none;
   }
-  
-  .menu p {
+
+  .topmenu {
+    line-height: 8px;
+    margin: 32px 0px;
+  }
+
+  .submenu {
+    line-height: 18.4px;
     margin: 32px 0px;
   }
 
