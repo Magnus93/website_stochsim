@@ -20,6 +20,7 @@ const menu = () => {
         </li>
         <li className="topmenu"><Link to="/stochsd_and_statres_manuels">StochSD User's Manuals</Link></li>
         <li className="topmenu"><Link to="/example_models">Example Models</Link></li>
+        <li className="topmenu"><Link to="/labs">Labs</Link></li>
       </ul>
 			<img src={Bath} alt={"Bath here"} id="bathImg" />
     </div>
