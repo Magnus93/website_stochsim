@@ -8,6 +8,17 @@ import file6 from "./StochSD-Files/A6_Combined_model.ssd";
 import file7 from "./StochSD-Files/A7_Lanchester.ssd";
 
 const examples = () => {
+  const ex_list = [
+    {"filepath": file1, "desc": "Right and wrong stochastic modelling"},
+    {"filepath": file2, "desc": "Deterministic modelling hides behaviours and may distort results"},
+    {"filepath": file3, "desc": "Consequences of neglecting stage-to-compartment expansion"},
+    {"filepath": file4, "desc": "Behaviours of different SIR models"},
+    {"filepath": file5, "desc": "Queues and statistical devices"},
+    {"filepath": file6, "desc": "Combined continuous and discrete modelling"},
+    {"filepath": file7, "desc": "Lanchester's model of warfare. Combat between two forces."}
+  ];
+
+
   return (
     <div>
       <h1>Example Models</h1>
@@ -20,69 +31,11 @@ const examples = () => {
       The full potential of Continuous System Simulation modelling
       </a>
       <ul>
-        <li>
-          <a
-            href={file1}
-            download
-          >
-            <b>Ex-1</b>
-          </a>{" "}
-          (Right and wrong stochastic modelling)
-        </li>
-        <li>
-          <a
-            href={file2}
-            download
-          >
-            <b>Ex-2</b>
-          </a>{" "}
-          (Deterministic modelling hides behaviours and may distort results)
-        </li>
-        <li>
-          <a
-            href={file3}
-            download
-          >
-            <b>Ex-3</b>
-          </a>{" "}
-          (Consequences of neglecting stage-to-compartment expansion)
-        </li>
-        <li>
-          <a
-            href={file4}
-            download
-          >
-            <b>Ex-4</b>
-          </a>{" "}
-          (Behaviours of different SIR models)
-        </li>
-        <li>
-          <a
-            href={file5}
-            download
-          >
-            <b>Ex-5</b>
-          </a>{" "}
-          (Queues and statistical devices)
-        </li>
-        <li>
-          <a
-            href={file6}
-            download
-          >
-            <b>Ex-6</b>
-          </a>{" "}
-          (Combined continuous and discrete modelling)
-        </li>
-        <li>
-          <a
-            href={file7}
-            download
-          >
-            <b>Ex-7</b>
-          </a>{" "}
-          (Lanchester's model of warfare. Combat between two forces.)
-        </li>
+        {ex_list.map((ex, index) => {
+          return (<li>
+            <a href={ex["filepath"]} download><b>Ex-{index+1}</b></a> - {ex["desc"]}
+          </li>);
+        })}
       </ul>
       <p>
         To run an example file, click 'Ex-n' and download it on your computer.{" "}
