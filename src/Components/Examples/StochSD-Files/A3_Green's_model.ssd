@@ -2,55 +2,7 @@
 <root>
 <mxCell id="0"/>
 <mxCell id="1" parent="0"/>
-<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="76" name="According to this more realistic model (that produces no cancers in  33% of the runs), no rejection of the common 'knowledge' that CIS can cause cancer could be made (with 95% confidence)!">
-<mxCell parent="1" visible="0" edge="1" style="textarea">
-<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="529.0358074903488" y="469.38182830810547"/>
-<mxPoint as="targetPoint" x="763.0358074903488" y="617.3818283081055"/>
-</mxGeometry>
-</mxCell>
-</TextArea>
-<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="75" name="Green's model: &#10;(See Gustafsson et al., The Full Potential ..., 2017.)&#10;&#10;In a clinical study where 75 women having CIS were followed-up - none got cancer! &#10;&#10;Professor Green constructed a model based on that the risk of developing cancer from CIS is q, and the time constant for the process is D years. According to knowledge q~0.12 and D~11 years.&#10;&#10;However, the model shows that with 95% probability at least one woman would get cancer after 4.42 years of follow-up. Therefore, he concluded that the 'knowledge' that CIS leads to cancer should be rejected with 95% confidence.">
-<mxCell parent="1" visible="0" edge="1" style="textarea">
-<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="350.0358074903488" y="55.38182830810547"/>
-<mxPoint as="targetPoint" x="761.0358074903488" y="372.38182830810547"/>
-</mxGeometry>
-</mxCell>
-</TextArea>
-<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="74" name="Alternative model">
-<mxCell parent="1" visible="0" edge="1" style="textarea">
-<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="34.035807490348816" y="352.38182830810547"/>
-<mxPoint as="targetPoint" x="169.03580749034882" y="385.38182830810547"/>
-</mxGeometry>
-</mxCell>
-</TextArea>
-<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="73" name="Green's model">
-<mxCell parent="1" visible="0" edge="1" style="textarea">
-<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="17.035807490348816" y="68.38182830810547"/>
-<mxPoint as="targetPoint" x="131.03580749034882" y="99.38182830810547"/>
-</mxGeometry>
-</mxCell>
-</TextArea>
-<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="72" name="Example A3. Tragic consequences of neglecting stage-to-compartment expansion">
-<mxCell parent="1" visible="0" edge="1" style="textarea">
-<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="4.035807490348816" y="4.381828308105469"/>
-<mxPoint as="targetPoint" x="608.0358074903488" y="40.38182830810547"/>
-</mxGeometry>
-</mxCell>
-</TextArea>
-<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="93" name="The two [Bin_75_q] (meaning Bin(75, 0.12)) and the two overall time constants [T] are identical by using the 'ghost'.">
-<mxCell parent="1" visible="0" edge="1" style="textarea">
-<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="25.035807490348816" y="576.3818283081055"/>
-<mxPoint as="targetPoint" x="462.0358074903488" y="628.3818283081055"/>
-</mxGeometry>
-</mxCell>
-</TextArea>
-<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="94" name="To find the average values of CANCER_G and CANCER_A, open the Tools menu and select StatRes. Then add CANCER_G and CANCER_A and press the Run button.">
+<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="94" name="To find the average values of CANCER_G and CANCER_A, open the Tools menu and select StatRes. Then add CANCER_G and CANCER_A and press the Run button." HideFrame="false" Color="black">
 <mxCell parent="1" visible="0" edge="1" style="textarea">
 <mxGeometry x="0" y="0" width="100" height="100" as="geometry">
 <mxPoint as="sourcePoint" x="801.0703328251839" y="11.724311828613281"/>
@@ -58,101 +10,123 @@
 </mxGeometry>
 </mxCell>
 </TextArea>
-<Setting Note="" Version="36" TimeLength="4.42" TimeStart="0" TimeStep="0.01" TimeUnits="Years" StrictUnits="true" Units="" HiddenUIGroups="Validation,User Interface" SolutionAlgorithm="RK1" BackgroundColor="white" Throttle="-1" Macros="" SensitivityPrimitives="" SensitivityRuns="50" SensitivityBounds="50, 80, 95, 100" SensitivityShowRuns="false" article="{&quot;comments&quot;:true, &quot;facebookUID&quot;: &quot;&quot;}" StyleSheet="{}" id="2" TimePause="0.0442">
+<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="93" name="The two [Bin_75_q] (meaning Bin(75, 0.12)) and the two overall time constants [T] are identical by using the 'ghost'." HideFrame="false" Color="black">
+<mxCell parent="1" visible="0" edge="1" style="textarea">
+<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="25.035807490348816" y="576.3818283081055"/>
+<mxPoint as="targetPoint" x="462.0358074903488" y="628.3818283081055"/>
+</mxGeometry>
+</mxCell>
+</TextArea>
+<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="72" name="Example A3. Tragic consequences of neglecting stage-to-compartment expansion" HideFrame="false" Color="black">
+<mxCell parent="1" visible="0" edge="1" style="textarea">
+<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="4.035807490348816" y="4.381828308105469"/>
+<mxPoint as="targetPoint" x="608.0358074903488" y="40.38182830810547"/>
+</mxGeometry>
+</mxCell>
+</TextArea>
+<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="73" name="Green's model" HideFrame="false" Color="black">
+<mxCell parent="1" visible="0" edge="1" style="textarea">
+<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="17.035807490348816" y="68.38182830810547"/>
+<mxPoint as="targetPoint" x="131.03580749034882" y="99.38182830810547"/>
+</mxGeometry>
+</mxCell>
+</TextArea>
+<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="74" name="Alternative model" HideFrame="false" Color="black">
+<mxCell parent="1" visible="0" edge="1" style="textarea">
+<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="34.035807490348816" y="352.38182830810547"/>
+<mxPoint as="targetPoint" x="184.00281727313995" y="385.68202209472656"/>
+</mxGeometry>
+</mxCell>
+</TextArea>
+<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="75" name="Green's model: &#10;(See Gustafsson et al., The Full Potential ..., 2017.)&#10;&#10;In a clinical study where 75 women having CIS were followed-up - none got cancer! &#10;&#10;Professor Green constructed a model based on that the risk of developing cancer from CIS is q, and the time constant for the process is D years. According to knowledge q~0.12 and D~11 years.&#10;&#10;However, the model shows that with 95% probability at least one woman would get cancer after 4.42 years of follow-up. Therefore, he concluded that the 'knowledge' that CIS leads to cancer should be rejected with 95% confidence." HideFrame="false" Color="black">
+<mxCell parent="1" visible="0" edge="1" style="textarea">
+<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="370.0358074903488" y="55.38182830810547"/>
+<mxPoint as="targetPoint" x="781.0358074903488" y="372.38182830810547"/>
+</mxGeometry>
+</mxCell>
+</TextArea>
+<TextArea Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="76" name="According to this more realistic model (that produces no cancers in  33% of the runs), no rejection of the common 'knowledge' that CIS can cause cancer could be made (with 95% confidence)!" HideFrame="false" Color="black">
+<mxCell parent="1" visible="0" edge="1" style="textarea">
+<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="529.0358074903488" y="469.38182830810547"/>
+<mxPoint as="targetPoint" x="763.0358074903488" y="617.3818283081055"/>
+</mxGeometry>
+</mxCell>
+</TextArea>
+<Setting Note="" Version="36" TimeLength="4.42" TimeStart="0" TimeStep="0.01" TimeUnits="Year" StrictUnits="true" Units="" HiddenUIGroups="Validation,User Interface" SolutionAlgorithm="RK1" BackgroundColor="white" Throttle="-1" Macros="" SensitivityPrimitives="" SensitivityRuns="50" SensitivityBounds="50, 80, 95, 100" SensitivityShowRuns="false" article="{&quot;comments&quot;:true, &quot;facebookUID&quot;: &quot;&quot;}" StyleSheet="{}" id="2" TimePause="0.442" StrictLinks="true" StrictAgentResolution="true">
 <mxCell parent="1" vertex="1" visible="0" style="setting">
 <mxGeometry x="20" y="20" width="80" height="40" as="geometry"/>
 </mxCell>
 </Setting>
-<Stock name="CANCER_A" Note="" InitialValue="0" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="84" RotateName="2" color="blue" ValueError="">
-<mxCell parent="1" vertex="1" style="stock">
-<mxGeometry x="456" y="418" width="80" height="60" as="geometry"/>
-</mxCell>
-</Stock>
-<Stock name="CANCER_G" Note="" InitialValue="0" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="80" RotateName="2" color="green" ValueError="">
-<mxCell parent="1" vertex="1" style="stock">
-<mxGeometry x="221" y="129" width="80" height="60" as="geometry"/>
-</mxCell>
-</Stock>
-<Stock name="CIS1" Note="" InitialValue="[Bin_75_q]" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="44" RotateName="2" ValueError="">
-<mxCell parent="1" vertex="1" style="stock">
-<mxGeometry x="71" y="417" width="80" height="60" as="geometry"/>
-</mxCell>
-</Stock>
-<Stock name="CIS2" Note="" InitialValue="0" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="45" RotateName="2" ValueError="">
-<mxCell parent="1" vertex="1" style="stock">
-<mxGeometry x="194" y="416" width="80" height="60" as="geometry"/>
-</mxCell>
-</Stock>
-<Stock name="CIS3" Note="" InitialValue="0" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="46" RotateName="2" ValueError="">
-<mxCell parent="1" vertex="1" style="stock">
-<mxGeometry x="319" y="417" width="80" height="60" as="geometry"/>
-</mxCell>
-</Stock>
-<Stock name="CIS" Note="" InitialValue="[Bin_75_q]" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="66" RotateName="2" ValueError="">
+<Stock name="CIS" Note="" InitialValue="[Bin_75_q]" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="66" RotateName="2" ValueError="" Color="black">
 <mxCell parent="1" vertex="1" style="stock">
 <mxGeometry x="89" y="132" width="80" height="60" as="geometry"/>
 </mxCell>
 </Stock>
-<Variable name="D" Note="" Equation="11" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" isConstant="true" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="96" RotateName="0" OnlyPositive="false" ValueError="">
-<mxCell parent="1" vertex="1" style="variable">
-<mxGeometry x="161" y="216" width="60" height="60" as="geometry"/>
+<Stock name="CIS3" Note="" InitialValue="0" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="46" RotateName="2" ValueError="" Color="black">
+<mxCell parent="1" vertex="1" style="stock">
+<mxGeometry x="319" y="417" width="80" height="60" as="geometry"/>
 </mxCell>
-</Variable>
-<Variable name="Bin_75_q" Note="" Equation="RandBinomial(75, 0.12)" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" isConstant="true" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="95" RotateName="0" OnlyPositive="false" ValueError="">
-<mxCell parent="1" vertex="1" style="variable">
-<mxGeometry x="15" y="130" width="60" height="60" as="geometry"/>
+</Stock>
+<Stock name="CIS2" Note="" InitialValue="0" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="45" RotateName="2" ValueError="" Color="black">
+<mxCell parent="1" vertex="1" style="stock">
+<mxGeometry x="194" y="416" width="80" height="60" as="geometry"/>
 </mxCell>
-</Variable>
-<Variable name="D_div_3" Note="" Equation="[D]/3" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" isConstant="false" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="103" ValueError="" RotateName="0" OnlyPositive="false">
+</Stock>
+<Stock name="CIS1" Note="" InitialValue="[Bin_75_q]" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="44" RotateName="2" ValueError="" Color="black">
+<mxCell parent="1" vertex="1" style="stock">
+<mxGeometry x="71" y="417" width="80" height="60" as="geometry"/>
+</mxCell>
+</Stock>
+<Stock name="CANCER_G" Note="" InitialValue="0" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="80" RotateName="2" color="green" ValueError="" Color="green">
+<mxCell parent="1" vertex="1" style="stock">
+<mxGeometry x="221" y="130" width="80" height="60" as="geometry"/>
+</mxCell>
+</Stock>
+<Stock name="CANCER_A" Note="" InitialValue="0" StockMode="Store" Delay="10" Volume="100" NonNegative="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="84" RotateName="2" color="blue" ValueError="" Color="magenta">
+<mxCell parent="1" vertex="1" style="stock">
+<mxGeometry x="456" y="418" width="80" height="60" as="geometry"/>
+</mxCell>
+</Stock>
+<Variable name="D_div_3" Note="" Equation="[D]/3" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" isConstant="false" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="103" ValueError="" RotateName="0" OnlyPositive="false" Color="black">
 <mxCell parent="1" vertex="1" style="variable">
 <mxGeometry x="241" y="495" width="60" height="60" as="geometry"/>
 </mxCell>
 </Variable>
-<Ghost Source="96" id="100" name="D" RotateName="0" ValueError="VE1:">
-<mxCell parent="1" vertex="1" style="variable;opacity=30;">
-<mxGeometry x="137" y="501" width="60" height="60" as="geometry"/>
+<Variable name="Bin_75_q" Note="" Equation="RandBinomial(75, 0.12)" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" isConstant="true" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="95" RotateName="0" OnlyPositive="false" ValueError="" Color="black">
+<mxCell parent="1" vertex="1" style="variable">
+<mxGeometry x="15" y="130" width="60" height="60" as="geometry"/>
 </mxCell>
-</Ghost>
-<Ghost Source="95" id="99" name="Bin_75_q" RotateName="0" ValueError="VE1:">
+</Variable>
+<Variable name="D" Note="" Equation="11" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" Image="None" isConstant="true" FlipHorizontal="false" FlipVertical="false" LabelPosition="Middle" id="96" RotateName="0" OnlyPositive="false" ValueError="" Color="black">
+<mxCell parent="1" vertex="1" style="variable">
+<mxGeometry x="161" y="216" width="60" height="60" as="geometry"/>
+</mxCell>
+</Variable>
+<Ghost Source="95" id="99" name="Bin_75_q" RotateName="0" ValueError="VE1:" Color="black">
 <mxCell parent="1" vertex="1" style="variable;opacity=30;">
 <mxGeometry x="11" y="417" width="60" height="60" as="geometry"/>
 </mxCell>
 </Ghost>
-<Numberbox Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="87" name="" Target="80">
-<mxCell parent="1" vertex="1" style="numberbox">
-<mxGeometry x="307" y="160" width="0" height="0" as="geometry"/>
+<Ghost Source="96" id="100" name="D" RotateName="0" ValueError="VE1:" Color="black">
+<mxCell parent="1" vertex="1" style="variable;opacity=30;">
+<mxGeometry x="137" y="501" width="60" height="60" as="geometry"/>
 </mxCell>
-</Numberbox>
-<Numberbox Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="88" name="" Target="84">
-<mxCell parent="1" vertex="1" style="numberbox">
-<mxGeometry x="541" y="450" width="0" height="0" as="geometry"/>
-</mxCell>
-</Numberbox>
-<Diagram Primitives="80,84" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="69" name="undefined1" Sides="L,L" TitleLabel="" LeftAxisLabel="" RightAxisLabel="">
-<mxCell parent="1" visible="0" edge="1" style="diagram">
-<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="800.0358074903488" y="125.38182830810547"/>
-<mxPoint as="targetPoint" x="1205.0358074903488" y="512.3818283081055"/>
-</mxGeometry>
-</mxCell>
-</Diagram>
-<Flow name="F2" Note="" FlowRate="PoFlow([CIS2]/[D_div_3])" OnlyPositive="false" TimeIndependent="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="47" RotateName="2" MiddlePoints="" ValueError="">
-<mxCell parent="1" source="45" target="46" edge="1" style="flow">
-<mxGeometry x="296.5" y="442" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="259" y="442"/>
-<mxPoint as="targetPoint" x="334" y="442"/>
+</Ghost>
+<Flow name="F" Note="" FlowRate="PoFlow([CIS]/[D])" OnlyPositive="false" TimeIndependent="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="61" RotateName="2" MiddlePoints="" ValueError="" ValveIndex="0" VariableSide="false" Color="black">
+<mxCell parent="1" source="66" edge="1" style="flow" target="80">
+<mxGeometry x="195" y="162.16222381591797" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="154" y="162.16222381591797"/>
+<mxPoint as="targetPoint" x="236" y="162.16222381591797"/>
 </mxGeometry>
 </mxCell>
 </Flow>
-<Flow name="F1" Note="" FlowRate="PoFlow([CIS1]/[D_div_3])" OnlyPositive="false" TimeIndependent="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="48" RotateName="2" MiddlePoints="" ValueError="">
-<mxCell parent="1" source="44" target="45" edge="1" style="flow">
-<mxGeometry x="172.5" y="443" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="136" y="443"/>
-<mxPoint as="targetPoint" x="209" y="443"/>
-</mxGeometry>
-</mxCell>
-</Flow>
-<Flow name="F3" Note="" FlowRate="PoFlow([CIS3]/[D_div_3])" OnlyPositive="false" TimeIndependent="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="50" RotateName="2" MiddlePoints="" ValueError="">
+<Flow name="F3" Note="" FlowRate="PoFlow([CIS3]/[D_div_3])" OnlyPositive="false" TimeIndependent="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="50" RotateName="2" MiddlePoints="" ValueError="" ValveIndex="0" VariableSide="false" Color="black">
 <mxCell parent="1" source="46" edge="1" style="flow" target="84">
 <mxGeometry x="427.5" y="443" width="100" height="100" as="geometry">
 <mxPoint as="sourcePoint" x="384" y="443"/>
@@ -160,101 +134,127 @@
 </mxGeometry>
 </mxCell>
 </Flow>
-<Flow name="F" Note="" FlowRate="PoFlow([CIS]/[D])" OnlyPositive="false" TimeIndependent="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="61" RotateName="2" MiddlePoints="" ValueError="">
-<mxCell parent="1" source="66" edge="1" style="flow" target="80">
-<mxGeometry x="195" y="164" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="154" y="164"/>
-<mxPoint as="targetPoint" x="236" y="164"/>
+<Flow name="F1" Note="" FlowRate="PoFlow([CIS1]/[D_div_3])" OnlyPositive="false" TimeIndependent="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="48" RotateName="2" MiddlePoints="" ValueError="" ValveIndex="0" VariableSide="false" Color="black">
+<mxCell parent="1" source="44" target="45" edge="1" style="flow">
+<mxGeometry x="172.5" y="443" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="136" y="443"/>
+<mxPoint as="targetPoint" x="209" y="443"/>
 </mxGeometry>
 </mxCell>
 </Flow>
-<Link name="Link10" Note="" BiDirectional="false" id="101" b1x="87.19634703196348" b1y="446.3777270421107" b2x="99.59817351598173" b2y="446.5499746321665">
-<mxCell parent="1" source="99" target="44" edge="1" style="link">
-<mxGeometry x="74.35379743063196" y="446.3604276090683" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="62.707594861263914" y="446.7075948612639"/>
-<mxPoint as="targetPoint" x="86" y="446.0132603568728"/>
+<Flow name="F2" Note="" FlowRate="PoFlow([CIS2]/[D_div_3])" OnlyPositive="false" TimeIndependent="false" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="47" RotateName="2" MiddlePoints="" ValueError="" ValveIndex="0" VariableSide="false" Color="black">
+<mxCell parent="1" source="45" target="46" edge="1" style="flow">
+<mxGeometry x="296.5" y="442" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="259" y="442"/>
+<mxPoint as="targetPoint" x="334" y="442"/>
 </mxGeometry>
 </mxCell>
-</Link>
-<Link name="Link9" Note="" BiDirectional="false" id="98" b1x="191.35890578672627" b1y="212.64614365870474" b2x="192.20057019414213" b2y="205.7750459380991">
-<mxCell parent="1" source="96" target="61" edge="1" style="link">
-<mxGeometry x="191.84198659537577" y="214.03547627595378" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="191.23421181800512" y="224.23421181800512"/>
-<mxPoint as="targetPoint" x="192.44976137274642" y="203.83674073390242"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link8" Note="" BiDirectional="false" id="97" b1x="76.43181818181819" b1y="158.83324205914568" b2x="92.7159090909091" b2y="159.8142113910186">
-<mxCell parent="1" source="95" target="66" edge="1" style="link">
-<mxGeometry x="85.10629147417052" y="159.85327942597775" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="66.21258294834104" y="159.21258294834104"/>
-<mxPoint as="targetPoint" x="104" y="160.49397590361446"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link7" Note="" BiDirectional="false" id="78" b1x="155.1678434312344" b1y="190.46181615193686" b2x="168.33568686246872" b2y="189.9236323038737">
-<mxCell parent="1" source="66" target="61" edge="1" style="link">
-<mxGeometry x="160.9723087201581" y="184.66868684322802" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="146.4686331518454" y="181"/>
-<mxPoint as="targetPoint" x="175.4759842884708" y="188.33737368645603"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link1" Note="" BiDirectional="false" id="52" b1x="392.12613142261426" b1y="466.28927629987686" b2x="402.25226284522853" b2y="467.2135890961041">
-<mxCell parent="1" source="46" target="50" edge="1" style="link">
-<mxGeometry x="395.8864178509283" y="463.92485455093066" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="384" y="461.5574471508531"/>
-<mxPoint as="targetPoint" x="407.7728357018566" y="466.29226195100824"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link2" Note="" BiDirectional="false" id="53" b1x="263.18051845043516" b1y="471.1433208660129" b2x="271.3610369008703" b2y="472.88664173202574">
-<mxCell parent="1" source="45" target="47" edge="1" style="link">
-<mxGeometry x="267.09891418111584" y="467.4739510006366" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="256.0507805437789" y="465"/>
-<mxPoint as="targetPoint" x="278.1470478184528" y="469.9479020012731"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link3" Note="" BiDirectional="false" id="54" b1x="131.79705013796246" b1y="474.0944816144383" b2x="143.59410027592492" b2y="477.5954672939172">
-<mxCell parent="1" source="44" target="48" edge="1" style="link">
-<mxGeometry x="140.11536574066417" y="469.0073106097879" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="125.58392739319729" y="466"/>
-<mxPoint as="targetPoint" x="154.6468040881311" y="472.0146212195758"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link4" Note="" BiDirectional="false" id="104" b1x="201.11279563371744" b1y="534.7206387709723" b2x="216.17404487568223" b2y="531.389731150192">
-<mxCell parent="1" source="100" target="103" edge="1" style="link">
-<mxGeometry x="218.9854616863209" y="530.2393906504926" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="186.83646252978704" y="533.163537470213"/>
-<mxPoint as="targetPoint" x="251.13446084285474" y="527.3152438307721"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link5" Note="" BiDirectional="false" id="105" b1x="227.69285984932233" b1y="494.7757440678772" b2x="217.12611520809963" b2y="486.96843732366636">
-<mxCell parent="1" source="103" target="48" edge="1" style="link">
-<mxGeometry x="254.59923328525034" y="331.29139230035474" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="254.59923328525034" y="513.5538280998248"/>
-<mxPoint as="targetPoint" x="190.11946716086103" y="472.4633174398484"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link6" Note="" BiDirectional="false" id="106" b1x="272.2248119307241" b1y="494.9648752946657" b2x="281.34227443986384" b2y="487.84867297696997">
-<mxCell parent="1" source="103" target="47" edge="1" style="link">
-<mxGeometry x="279.0990040339884" y="492.1345479976372" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="271.81490908320836" y="505.01660881666714"/>
-<mxPoint as="targetPoint" x="286.3830989847684" y="479.2524871786072"/>
-</mxGeometry>
-</mxCell>
-</Link>
-<Link name="Link11" Note="" BiDirectional="false" id="107" b1x="318.5109681300585" b1y="509.633205509115" b2x="361.7223458801544" b2y="496.3364167137414">
+</Flow>
+<Link name="Link11" Note="" BiDirectional="false" id="107" b1x="318.19349868036426" b1y="508.78848485605727" b2x="361.3177913083336" b2y="495.34450588214986" Color="black">
 <mxCell parent="1" source="103" target="50" edge="1" style="link">
-<mxGeometry x="349.844841561307" y="495.4432218390027" width="100" height="100" as="geometry">
-<mxPoint as="sourcePoint" x="290.0294065676468" y="518.8451900367924"/>
-<mxPoint as="targetPoint" x="409.6602765549673" y="472.04125364121313"/>
+<mxGeometry x="349.44749553363664" y="494.49578740587697" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="289.77098382758606" y="518.0970900234393"/>
+<mxPoint as="targetPoint" x="409.1240072396872" y="470.8944847883146"/>
 </mxGeometry>
 </mxCell>
 </Link>
+<Link name="Link6" Note="" BiDirectional="false" id="106" b1x="274.20476838759424" b1y="495.6371978013659" b2x="282.360249735052" b2y="488.0050049102132" Color="black">
+<mxCell parent="1" source="103" target="47" edge="1" style="link">
+<mxGeometry x="280.5725493837459" y="492.3212067931915" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="274.67840246206634" y="505.34117614588644"/>
+<mxPoint as="targetPoint" x="286.46669630542556" y="479.30123744049655"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link5" Note="" BiDirectional="false" id="105" b1x="227.37548301385917" b1y="495.2821656477886" b2x="216.78124778995763" b2y="487.52860559967434" Color="black">
+<mxCell parent="1" source="103" target="48" edge="1" style="link">
+<mxGeometry x="254.34686096427404" y="331.4429091834022" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="254.34686096427404" y="513.924217397548"/>
+<mxPoint as="targetPoint" x="189.72904239569766" y="473.1567759711068"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link4" Note="" BiDirectional="false" id="104" b1x="202.54630931524116" b1y="533.0663488442563" b2x="217.1933612962243" b2y="530.1949430154145" Color="black">
+<mxCell parent="1" source="100" target="103" edge="1" style="link">
+<mxGeometry x="219.9397710953408" y="529.1476342477802" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="188.77237621117067" y="531.2276237888293"/>
+<mxPoint as="targetPoint" x="251.10716597951094" y="527.067644706731"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link3" Note="" BiDirectional="false" id="54" b1x="137.22301185787697" b1y="471.28125067910594" b2x="145.78633614162737" b2y="472.9369266840672" Color="black">
+<mxCell parent="1" source="44" target="48" edge="1" style="link">
+<mxGeometry x="142.739844423358" y="467.1187684748099" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="132.28171482072628" y="466"/>
+<mxPoint as="targetPoint" x="153.1979740259897" y="468.23753694961977"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link2" Note="" BiDirectional="false" id="53" b1x="265.03031838042654" b1y="468.5660609731092" b2x="271.7417785088542" b2y="469.66166547303135" Color="black">
+<mxCell parent="1" source="45" target="47" edge="1" style="link">
+<mxGeometry x="268.06878576192673" y="465.4329048907556" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="259" y="463.8561826989719"/>
+<mxPoint as="targetPoint" x="277.13757152385347" y="467.0096270825393"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link1" Note="" BiDirectional="false" id="52" b1x="392.01554893518454" b1y="464.21729357065226" b2x="402.0579598699067" b2y="465.2450175345805" Color="black">
+<mxCell parent="1" source="46" target="50" edge="1" style="link">
+<mxGeometry x="395.77419570253824" y="461.9109711775113" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="384" y="459.43150556214977"/>
+<mxPoint as="targetPoint" x="407.5483914050765" y="464.39043679287295"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link7" Note="" BiDirectional="false" id="78" b1x="160.56821668025034" b1y="187.274650086553" b2x="170.0624959004086" b2y="186.01784947735865" Color="black">
+<mxCell parent="1" source="66" target="61" edge="1" style="link">
+<mxGeometry x="164.3874091622465" y="182.69977681025148" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="153.64928323164253" y="181"/>
+<mxPoint as="targetPoint" x="175.12553509285053" y="184.39955362050299"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link8" Note="" BiDirectional="false" id="97" b1x="76.8043230754524" b1y="159.27710379392727" b2x="92.86838120936696" b2y="160.117196732369" Color="black">
+<mxCell parent="1" source="95" target="66" edge="1" style="link">
+<mxGeometry x="85.36547047982418" y="160.21514082363348" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="66.73094095964838" y="159.73094095964836"/>
+<mxPoint as="targetPoint" x="104" y="160.69934068761862"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link9" Note="" BiDirectional="false" id="98" b1x="191.62151868153921" b1y="211.72327062992255" b2x="192.5627747459643" b2y="204.17474971838217" Color="black">
+<mxCell parent="1" source="96" target="61" edge="1" style="link">
+<mxGeometry x="192.14905825504732" y="213.25113389129496" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="191.4568932340516" y="224.4568932340516"/>
+<mxPoint as="targetPoint" x="192.84122327604305" y="202.04537454853835"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Link name="Link10" Note="" BiDirectional="false" id="101" b1x="69.86609415573454" b1y="447.04916114516794" b2x="79.08546892388622" b2y="447.05012677821964" Color="black">
+<mxCell parent="1" source="99" target="44" edge="1" style="link">
+<mxGeometry x="74.47578153981038" y="447.0496439616938" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="62.951563079620776" y="447.04843692037923"/>
+<mxPoint as="targetPoint" x="86" y="447.05085100300835"/>
+</mxGeometry>
+</mxCell>
+</Link>
+<Numberbox Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="88" name="" Target="84" RoundToZero="false" RoundToZeroAtValue="1e-12" NumberLength="{&quot;usePrecision&quot;:true,&quot;precision&quot;:0,&quot;decimal&quot;:2}" Color="black">
+<mxCell parent="1" vertex="1" style="numberbox">
+<mxGeometry x="559" y="448" width="0" height="0" as="geometry"/>
+</mxCell>
+</Numberbox>
+<Numberbox Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="87" name="" Target="80" RoundToZero="false" RoundToZeroAtValue="1e-12" NumberLength="{&quot;usePrecision&quot;:true,&quot;precision&quot;:0,&quot;decimal&quot;:2}" Color="black">
+<mxCell parent="1" vertex="1" style="numberbox">
+<mxGeometry x="323" y="158" width="0" height="0" as="geometry"/>
+</mxCell>
+</Numberbox>
+<TimePlot Primitives="80,84" Units="Unitless" MaxConstraintUsed="false" MinConstraintUsed="false" MaxConstraint="100" MinConstraint="0" ShowSlider="false" SliderMax="100" SliderMin="0" SliderStep="" id="69" name="undefined1" Sides="L,L" TitleLabel="" LeftAxisLabel="" RightAxisLabel="" AxisLimits="{&quot;timeaxis&quot;:{&quot;min&quot;:0,&quot;max&quot;:4.42,&quot;auto&quot;:true},&quot;leftaxis&quot;:{&quot;min&quot;:-0.2,&quot;max&quot;:1.2000000000000002,&quot;auto&quot;:true},&quot;rightaxis&quot;:{&quot;min&quot;:0,&quot;max&quot;:1,&quot;auto&quot;:true}}" PlotPer="0.01" AutoPlotPer="true" LineOptions="{&quot;stock&quot;:{&quot;pattern&quot;:[1],&quot;width&quot;:2},&quot;flow&quot;:{&quot;pattern&quot;:[10,5],&quot;width&quot;:2},&quot;variable&quot;:{&quot;pattern&quot;:[1],&quot;width&quot;:1},&quot;constant&quot;:{&quot;pattern&quot;:[1],&quot;width&quot;:1},&quot;converter&quot;:{&quot;pattern&quot;:[1],&quot;width&quot;:1}}" HasNumberedLines="true" ColorFromPrimitive="true" Color="black">
+<mxCell parent="1" visible="0" edge="1" style="timeplot">
+<mxGeometry x="0" y="0" width="100" height="100" as="geometry">
+<mxPoint as="sourcePoint" x="800.0358074903488" y="125.38182830810547"/>
+<mxPoint as="targetPoint" x="1205.0358074903488" y="512.3818283081055"/>
+</mxGeometry>
+</mxCell>
+</TimePlot>
 </root>
 </InsightMakerModel>
