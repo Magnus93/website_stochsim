@@ -13,15 +13,6 @@ const software = () => {
       </p>
       <p>
         <a
-          href="https://sourceforge.net/projects/stochsd/files/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          StochSD Desktop
-        </a>{" "}
-        (download)
-        <br />
-        <a
           href="https://stochsd.sourceforge.io/software/MultiSimulationAnalyser/index.html"
           target="_blank"
           rel="noopener noreferrer"
@@ -29,11 +20,20 @@ const software = () => {
           StochSD Web
         </a>{" "}
         (online)
+        <br />
+        <a
+          href="https://sourceforge.net/projects/stochsd/files/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          StochSD Desktop
+        </a>{" "}
+        (download)
       </p>
       <p>
-        The open-source code for <b>StochSD</b> is available{" "}
+        The open-source code for <b>StochSD</b> is available on{" "}
         <a
-          href="https://github.com/Magnus93/stochsd"
+          href="https://github.com/stochsd/stochsd"
           target="_blank"
           rel="noopener noreferrer"
         >

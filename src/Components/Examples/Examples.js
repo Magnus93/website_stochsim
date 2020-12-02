@@ -5,6 +5,7 @@ import file3 from "./StochSD-Files/A3_Green's_model.ssd";
 import file4 from "./StochSD-Files/A4_SIR_models.ssd";
 import file5 from "./StochSD-Files/A5_MMs_queue.ssd";
 import file6 from "./StochSD-Files/A6_Combined_model.ssd";
+import file7 from "./StochSD-Files/A7_Lanchester.ssd";
 
 const examples = () => {
   return (
@@ -72,6 +73,15 @@ const examples = () => {
             <b>Ex-6</b>
           </a>{" "}
           (Combined continuous and discrete modelling)
+        </li>
+        <li>
+          <a
+            href={file7}
+            download
+          >
+            <b>Ex-7</b>
+          </a>{" "}
+          (Lanchester's model of warfare. Combat between two forces.)
         </li>
       </ul>
       <p>

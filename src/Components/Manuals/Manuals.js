@@ -25,18 +25,6 @@ const manuals = () => {
       <b>Tools</b>
       <ul style={listStyle}>
         <li>
-          <a target="_blank" href={"https://stochsd.sourceforge.io/manuals/StochSD_StatRes.pdf"}>
-            StatRes manual
-          </a>
-          {" "}- for multiple runs of a stochastic model, statistical analysis and result presentation.
-        </li>
-        <li>
-          <a target="_blank" href={"https://stochsd.sourceforge.io/manuals/StochSD_ParmVar.pdf"}>
-            ParmVar manual
-          </a>
-          {" "}- for parameters estimation with a stochastic model.
-        </li>
-        <li>
           <a target="_blank" href={"https://stochsd.sourceforge.io/manuals/StochSD_Optim.pdf"}>
             Optim manual
           </a>
@@ -47,6 +35,18 @@ const manuals = () => {
             Sensi manual
           </a>
           {" "}- for sensitivity analysis.
+        </li>
+        <li>
+          <a target="_blank" href={"https://stochsd.sourceforge.io/manuals/StochSD_StatRes.pdf"}>
+            StatRes manual
+          </a>
+          {" "}- for multiple runs of a stochastic model, statistical analysis and result presentation.
+        </li>
+        <li>
+          <a target="_blank" href={"https://stochsd.sourceforge.io/manuals/StochSD_ParmVar.pdf"}>
+            ParmVar manual
+          </a>
+          {" "}- for parameters estimation with a stochastic model.
         </li>
       </ul>
     </div>
